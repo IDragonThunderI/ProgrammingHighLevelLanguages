@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    double a, b, x;
+    double a, b, x, z;
     double e = exp(1.0);
 
     cout << "\n Enter a, b, x" << endl;
