@@ -1,9 +1,8 @@
 #include<iostream>
-#include<math.h>
+#include<cmath>
 using namespace std;
 
-int main()
-{
+int main() {
     double a, b, x;
     double e = exp(1.0);
 
@@ -14,6 +13,5 @@ int main()
 
     cout << "\n y=" << y << endl;
 
-    system("pause");
     return 0;
 }
